@@ -25,6 +25,8 @@
 
 [Springboot 之自定义starter](https://github.com/hanshuaikang/HanShu-Note/tree/master/SpringBoot/%E8%87%AA%E5%AE%9A%E4%B9%89starter)
 
+[Springboot 之自定义注解扫描器](https://github.com/hanshuaikang/HanShu-Note/blob/master/SpringBoot/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E6%89%AB%E6%8F%8F%E5%99%A8/Spring%20Boot%E4%B9%8B%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E6%89%AB%E6%8F%8F%E5%99%A8.md)
+
 
 
 **SpringCloud系列笔记:**
@@ -41,3 +43,14 @@
 
 [jvm内存回收终极奥义：垃圾收集算法](https://github.com/hanshuaikang/HanShu-Note/blob/master/Jvm/jvm%E5%86%85%E5%AD%98%E5%9B%9E%E6%94%B6%E7%BB%88%E6%9E%81%E5%A5%A5%E4%B9%89%EF%BC%9A%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E7%AE%97%E6%B3%95.md)
 
+
+
+**JAVA系列笔记：**
+
+[到底什么是应用上下文？](https://github.com/hanshuaikang/HanShu-Note/blob/master/java/%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E6%98%AF%E5%BA%94%E7%94%A8%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%9F.md)
+
+
+
+**设计模式相关笔记:**
+
+[在隔壁](https://github.com/hanshuaikang/design-pattern-java)
