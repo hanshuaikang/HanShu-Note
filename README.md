@@ -1,19 +1,35 @@
 # HanShu-Note
 叮叮叮铛，韩数的学习笔记(哆啦A梦配音)
 
-大家好，我是韩数，这里收录了我的大多数学习笔记，包括Spring，Boot ，Cloud相关等等
+大家好，我是韩数，这里收录了我的大多数学习笔记，包括Nginx，JAVA,Springboot，SpringCloud，Docker等后端常用的技术，大多数文章都经过markdown精心排版，总之八个字：
+
+**思路清奇，写法风骚**
+
+后续预告:
+
+Spark 大数据初级教程
+
+面向后端的Docker提升教程:高级篇
+
+面向后端的Mysql初级入门教程等
 
 
 
-**Spring系列笔记（早期笔记）：**
+**写给后端的Nginx初级入门教程**:
 
-[Spring使用Redis缓存](https://github.com/hanshuaikang/HanShu-Note/blob/master/Spring/Cache/Spring%E4%BD%BF%E7%94%A8Redis.pdf)
+[写给后端的Nginx初级入门教程:基础篇](https://github.com/hanshuaikang/HanShu-Note/blob/master/Nginx%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%86%99%E7%BB%99%E5%90%8E%E7%AB%AF%E7%9A%84Nginx%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%AF%87.md)
 
-[Spring Cache 缓存](https://github.com/hanshuaikang/HanShu-Note/blob/master/Spring/Cache/%E6%B5%85%E6%9E%90SpringCache%E7%BC%93%E5%AD%98.pdf)
+[写给后端的Nginx初级入门教程:实战篇](https://github.com/hanshuaikang/HanShu-Note/blob/master/Nginx%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%86%99%E7%BB%99%E5%90%8E%E7%AB%AF%E7%9A%84Nginx%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E5%AE%9E%E6%88%98%E7%AF%87.md)
 
-[Spring IOC 容器](https://github.com/hanshuaikang/HanShu-Note/blob/master/Spring/IOC/%E6%B5%85%E6%9E%90SpringIOC%E5%AE%B9%E5%99%A8.pdf)
+**面向后端的Docker初级入门教程:**
 
-[Spring 面向事件驱动编程](https://github.com/hanshuaikang/HanShu-Note/blob/master/Spring/%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E7%BC%96%E7%A8%8B/Spring%20%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E7%BC%96%E7%A8%8B.md)
+[面向后端的Docker初级入门教程:基础篇](https://github.com/hanshuaikang/HanShu-Note/blob/master/Docker%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E9%9D%A2%E5%90%91%E5%88%9D%E5%AD%A6%E8%80%85%E7%9A%84docker%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B%EF%BC%9A%E5%9F%BA%E7%A1%80%E7%AF%87.md)
+
+[Docker 三要素 ：镜像、容器和仓库](https://github.com/hanshuaikang/HanShu-Note/blob/master/Docker%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/Docker%20%E4%B8%89%E8%A6%81%E7%B4%A0%20%EF%BC%9A%E9%95%9C%E5%83%8F%E3%80%81%E5%AE%B9%E5%99%A8%E5%92%8C%E4%BB%93%E5%BA%93.md)
+
+[面向后端的Docker初级入门教程：实战篇](https://github.com/hanshuaikang/HanShu-Note/blob/master/Docker初级入门教程/面向后端的Docker初级入门教程：实战篇(上).md)
+
+[面向后端的Docker初级入门教程：DockerFile 命令详解](https://github.com/hanshuaikang/HanShu-Note/blob/master/Docker%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/%E5%86%99%E7%BB%99%E5%90%8E%E7%AB%AF%E7%9A%84Docker%E5%88%9D%E7%BA%A7%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%9ADockerFile%20%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3.md)
 
 **Spring Boot系列笔记：**
 
@@ -27,15 +43,11 @@
 
 [Springboot 之自定义注解扫描器](https://github.com/hanshuaikang/HanShu-Note/blob/master/SpringBoot/%E8%87%AA%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E6%89%AB%E6%8F%8F%E5%99%A8/Spring%20Boot%E4%B9%8B%E5%AE%9A%E4%B9%89%E6%B3%A8%E8%A7%A3%E6%89%AB%E6%8F%8F%E5%99%A8.md)
 
-
-
 **SpringCloud系列笔记:**
 
 [Hystrix 快速入门](https://github.com/hanshuaikang/HanShu-Note/tree/master/SpringCloud/Hystrix)
 
 [万字长文浅析微服务Ribbon负载均衡源码](https://github.com/hanshuaikang/HanShu-Note/tree/master/SpringCloud/Ribbon)
-
-
 
 **JVM系列笔记**:
 
@@ -45,14 +57,9 @@
 
 [Jvm内存回收终极奥义:垃圾回收器](https://github.com/hanshuaikang/HanShu-Note/blob/master/Jvm/Jvm%E5%86%85%E5%AD%98%E5%9B%9E%E6%94%B6%E7%BB%88%E6%9E%81%E5%A5%A5%E4%B9%89%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8.md)
 
-
-
 **JAVA系列笔记：**
 
 [到底什么是应用上下文？](https://github.com/hanshuaikang/HanShu-Note/blob/master/java/%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E6%98%AF%E5%BA%94%E7%94%A8%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%9F.md)
 
 
 
-**设计模式相关笔记:**
-
-[在隔壁](https://github.com/hanshuaikang/design-pattern-java)
