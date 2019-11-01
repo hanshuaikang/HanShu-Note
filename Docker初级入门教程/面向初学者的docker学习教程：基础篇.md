@@ -24,7 +24,7 @@ Docker的主要目标是“Build，Ship and Run Any App,Anywhere”，也就是�
 
 如图所示：
 
-![index](image\index.png)
+​                                                              ![img](https://user-gold-cdn.xitu.io/2019/10/4/16d95ce9e6cabedb?imageView2/0/w/1280/h/960/ignore-error/1) 
 
 对于虚拟机中运行的程序而言，由于虚拟机模拟了一整套系统的环境，那么在虚拟机中运行的应用程序是感知不到自己是在虚拟机中运行的，就像和在真实的操作系统中运行一样。
 
@@ -41,9 +41,7 @@ linux容器技术是怎么一回事呢，这点和我们在实际开发中抽取
 
 如同所示：
 
-![index2](image\index2.png)
-
-
+​                                                                 ![img](https://user-gold-cdn.xitu.io/2019/10/4/16d95cf019adc73c?imageView2/0/w/1280/h/960/ignore-error/1) 
 
 由于启动的时候，启动的并不是整套操作系统环境，仅仅是启动应用所需的环境就行了，启动速度自然就比传统的虚拟机快了很多，甚至说可以做到秒启动，同时又解决了资源浪费的问题，而Docker正是基于linux容器技术而衍生出来的开源项目，使其对于广大开发者来说更容易上手，降低了使用的门槛。
 

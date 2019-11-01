@@ -62,9 +62,7 @@ Person p2 = new Person();
 
 镜像 容器 仓库 他们三者之间的关系图如下:
 
-![1100338-20181011200343656-1972949758](image\1100338-20181011200343656-1972949758.png)
-
-
+![img](https://user-gold-cdn.xitu.io/2019/10/7/16da5e181bb1cf4d?imageView2/0/w/1280/h/960/ignore-error/1) 
 
 
 

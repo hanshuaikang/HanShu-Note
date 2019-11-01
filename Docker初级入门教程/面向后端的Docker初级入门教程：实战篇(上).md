@@ -82,7 +82,7 @@ docker image rm $(docker image ls -q redis)
 
 执行docker images 命令,如下图所示：
 
-![2](E:\学习笔记\Docker\image\2.png)
+ ![img](https://user-gold-cdn.xitu.io/2019/10/25/16e01665a5025005?imageView2/0/w/1280/h/960/ignore-error/1) 
 
 列表包含了 **仓库名、标签、镜像 ID、创建时间** 以及 **所占用的空间。**
 
@@ -104,7 +104,7 @@ docker run -d centos
 
 通过执行上面的命令，我们会自动以交互模式进入到容器中，如图所示:
 
-![1](E:\学习笔记\Docker\image\1.png)
+ ![img](https://user-gold-cdn.xitu.io/2019/10/25/16e01679f7184a8d?imageView2/0/w/1280/h/960/ignore-error/1) 
 
 可以发现，我们实际上已经进入centos容器内部的bin/bash了，在这里，我们可以输入相关的命令来操作我们的容器。如果只是单纯的想创建一个容器，并不怎么着急启动的话，可以使用**create**命令:
 

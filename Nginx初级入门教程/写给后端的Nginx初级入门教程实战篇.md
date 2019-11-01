@@ -509,7 +509,7 @@ http {
 
 在浏览器中输入ip地址:8888/index.html,屏幕上显示我是一个静态界面，同时打开开发者工具
 
-![image-20191030103306596](C:\Users\admin\Desktop\image-20191030103306596.png)
+ ![img](https://user-gold-cdn.xitu.io/2019/10/30/16e1a8f4fbc01928?imageView2/0/w/1280/h/960/ignore-error/1) 
 
 会发现jquery.js已经被正常请求到了。
 
